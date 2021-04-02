@@ -73,3 +73,5 @@ C:\Users\pettern\Desktop\Playground\DatingApp\API\bin\Debug\net5.0\Microsoft.Ide
 C:\Users\pettern\Desktop\Playground\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\pettern\Desktop\Playground\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\pettern\Desktop\Playground\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pettern\Desktop\Playground\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\pettern\Desktop\Playground\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
