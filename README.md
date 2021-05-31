@@ -9,4 +9,4 @@ Other features:
 - Login using JWT tokens.
 - Chat / like feature.
 - Photo upload to Cloudinary API.
--
+
